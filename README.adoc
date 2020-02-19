@@ -1,4 +1,4 @@
-= Cassandra fulle fetch reproducer
+= Vert.x Cassandra client full fetch reproducer
 
 This project is a reproducer of Vertx3 cassandra client bug using full fetch.
 
