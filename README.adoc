@@ -1,4 +1,4 @@
-= Vert.x Gradle Starter
+= Cassandra fulle fetch reproducer
 
 This project is a reproducer of Vertx3 cassandra client bug using full fetch.
 
